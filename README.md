@@ -11,6 +11,7 @@ Here are the list of the projects I have done from the beginning of my transitio
 ### Project 1 - X App Sentiment Analysis using Deep Learning NLP Method
 
 **Description:** 
+
 This is the first project I have ever done using NLP Deep Learning Method. In this project I used it to do a sentiment analysis on the recent public hearing regarding alien existence announcement. 
 For the test data I extracted related tweets from X app using scrapping method. I also used Kaggle Dataset as a training data for the model.  My goal was to construct a model that accurately predicts whether an individual responded positively, negatively or keeping neutrality on the case. 
 
@@ -19,8 +20,17 @@ For the test data I extracted related tweets from X app using scrapping method. 
 ### Project 2 - A DL Implementation on a Subscription-based Vegetable E-Commerce Churn Prediction
 
 **Description:** 
+
 In the rapidly growing world of e-commerce, subscription-based models have gained immense popularity due to their convenience and cost-effectiveness. This project focuses on implementing a Deep Learning (DL) solution for churn prediction in a subscription-based vegetable e-commerce platform. The aim is to help the business identify and retain customers who are likely to churn, thereby increasing customer retention rates and profitability.
 
 [Project Notebook: Subscription-based Vegetable E-Commerce Churn Prediction](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%202)
+
+### Project 3 - Credit Card Default Prediction using Classification ML Models
+
+**Description:** 
+
+Credit card default prediction is a critical task for financial institutions to minimize risks and manage their portfolios effectively. This project aims to develop and deploy a machine learning solution for credit card default prediction using a variety of classification algorithms. By leveraging historical credit card transaction data, customer profiles, and repayment behavior, this project helps identify customers who are at high risk of defaulting on their credit card payments.
+
+[Project Notebook: Credit Card Default Prediction](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%202)
 
 
