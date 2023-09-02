@@ -13,4 +13,4 @@ Here are the list of the projects I have done from the beginning of my transitio
 **Description:** 
 This is the first project I have ever done using NLP Deep Learning Method. In this project I used it to do a sentiment analysis on the recent public hearing regarding alien existence announcement. 
 For the test data I extracted related tweets from X app using scrapping method. I also used Kaggle Dataset as a training data for the model.  My goal was to construct a model that accurately predicts whether an individual responded positively, negatively or keeping neutrality on the case. 
-[Project Notebook: Finding Donors](http
+[Project Notebook: Alien Sentiment Analysis](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%201)
