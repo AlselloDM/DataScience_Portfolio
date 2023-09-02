@@ -21,4 +21,6 @@ For the test data I extracted related tweets from X app using scrapping method. 
 **Description:** 
 In the rapidly growing world of e-commerce, subscription-based models have gained immense popularity due to their convenience and cost-effectiveness. This project focuses on implementing a Deep Learning (DL) solution for churn prediction in a subscription-based vegetable e-commerce platform. The aim is to help the business identify and retain customers who are likely to churn, thereby increasing customer retention rates and profitability.
 
-[Project Notebook: Alien Sentiment Analysis](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%201)
+[Project Notebook: Subscription-based Vegetable E-Commerce Churn Prediction](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%202)
+
+
