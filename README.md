@@ -41,4 +41,12 @@ New York City is one of the most popular destinations for Airbnb travelers, offe
 
 [Project Notebook & Dashboard Link: New York AirBnB Data Analysis](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%204)
 
+### Project 5 - Credit Cardholer Segmentation using Clustering Unsupervised ML
+
+**Description:** 
+
+Credit cardholder segmentation is a crucial task for financial institutions to tailor their services, marketing strategies, and risk management. This project focuses on utilizing unsupervised machine learning techniques to cluster credit cardholders based on their spending behavior, credit history, and other relevant features. The goal is to identify distinct customer segments within the credit cardholder population.
+
+[Project Notebook: Cardholder Segmentation](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%205)
+
 
