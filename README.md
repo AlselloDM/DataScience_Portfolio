@@ -15,3 +15,10 @@ This is the first project I have ever done using NLP Deep Learning Method. In th
 For the test data I extracted related tweets from X app using scrapping method. I also used Kaggle Dataset as a training data for the model.  My goal was to construct a model that accurately predicts whether an individual responded positively, negatively or keeping neutrality on the case. 
 
 [Project Notebook: Alien Sentiment Analysis](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%201)
+
+### Project 2 - A DL Implementation on a Subscription-based Vegetable E-Commerce Churn Prediction
+
+**Description:** 
+In the rapidly growing world of e-commerce, subscription-based models have gained immense popularity due to their convenience and cost-effectiveness. This project focuses on implementing a Deep Learning (DL) solution for churn prediction in a subscription-based vegetable e-commerce platform. The aim is to help the business identify and retain customers who are likely to churn, thereby increasing customer retention rates and profitability.
+
+[Project Notebook: Alien Sentiment Analysis](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%201)
