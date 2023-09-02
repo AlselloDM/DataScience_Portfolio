@@ -31,6 +31,14 @@ In the rapidly growing world of e-commerce, subscription-based models have gaine
 
 Credit card default prediction is a critical task for financial institutions to minimize risks and manage their portfolios effectively. This project aims to develop and deploy a machine learning solution for credit card default prediction using a variety of classification algorithms. By leveraging historical credit card transaction data, customer profiles, and repayment behavior, this project helps identify customers who are at high risk of defaulting on their credit card payments.
 
-[Project Notebook: Credit Card Default Prediction](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%202)
+[Project Notebook: Credit Card Default Prediction](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%203)
+
+### Project 4 - New York AirBnB Detailed Data Analysis with Dashboard
+
+**Description:** 
+
+New York City is one of the most popular destinations for Airbnb travelers, offering a wide range of accommodations. This project presents a comprehensive analysis of New York Airbnb data, aiming to uncover valuable insights into rental trends, pricing strategies, and customer preferences. The project also includes the development of an interactive Tableau dashboard for visualizing and exploring the data, making it accessible to a wider audience.
+
+[Project Notebook & Dashboard Link: New York AirBnB Data Analysis](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%204)
 
 
