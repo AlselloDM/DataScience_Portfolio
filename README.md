@@ -49,6 +49,7 @@ Credit cardholder segmentation is a crucial task for financial institutions to t
 
 [Project Notebook: Cardholder Segmentation](https://github.com/AlselloDM/DataScience_Portfolio/tree/main/Project%205)
 
+### Other Publication
 
 [Blog Post:Unlocking Data’s Dimensions: Navigating High-Dimensional Realms with the Embedding Projector](https://medium.com/@wawansetiawan.sy/unlocking-datas-dimensions-navigating-high-dimensional-realms-with-the-embedding-projector-229ea55815df)
 
